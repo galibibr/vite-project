@@ -7,33 +7,25 @@ import WorkItem from './Workitem'
 const data = [
     {
         id: 1,
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 Years',
+        year: 2019,
+        title: 'Kids Club',
+        duration: '1 Years',
         details:
             'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A id explicabo deleniti. Repellat quidem possimus hic, dolor non obcaecati similique excepturi. Eveniet, id quasi. Distinctio ducimus eos amet eveniet vero!'
     },
     {
         id: 2,
-        year: 2017,
-        title: 'Google',
+        year: 2020,
+        title: 'Liga Robotov',
         duration: '3 Years',
         details:
             'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A id explicabo deleniti. Repellat quidem possimus hic, dolor non obcaecati similique excepturi. Eveniet, id quasi. Distinctio ducimus eos amet eveniet vero!'
     },
     {
         id: 3,
-        year: 2015,
-        title: 'Amazon',
+        year: 2021,
+        title: 'School "Navovar"',
         duration: '2 Years',
-        details:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A id explicabo deleniti. Repellat quidem possimus hic, dolor non obcaecati similique excepturi. Eveniet, id quasi. Distinctio ducimus eos amet eveniet vero!'
-    },
-    {
-        id: 4,
-        year: 2012,
-        title: 'Facebook',
-        duration: '3 Years',
         details:
             'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A id explicabo deleniti. Repellat quidem possimus hic, dolor non obcaecati similique excepturi. Eveniet, id quasi. Distinctio ducimus eos amet eveniet vero!'
     }

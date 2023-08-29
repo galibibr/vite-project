@@ -28,7 +28,6 @@ const Main = () => {
                             speed={50}
                             style={{ fontSize: '2em', display: 'inline-block' }}
                             repeat={Infinity}
-                            style={{ fontSize: '1em', paddingLeft: '5px' }}
                         />
                     </h2>
                     <div className='flex justify-between py-6 max-w-[200px] w-full'>
