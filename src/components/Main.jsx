@@ -33,6 +33,10 @@ const Main = () => {
                     <div className='flex justify-between py-6 max-w-[200px] w-full'>
                         <FaFacebook className=' cursor-pointer' size={20}></FaFacebook>
                         <FaInstagram className=' cursor-pointer' size={20}></FaInstagram>
+                        <FaInstagram className=' cursor-pointer' size={20}></FaInstagram>
+                        <FaInstagram className=' cursor-pointer' size={20}></FaInstagram>
+                        <FaTelegram className=' cursor-pointer' size={20}></FaTelegram>
+                        <FaTelegram className=' cursor-pointer' size={20}></FaTelegram>
                         <FaTelegram className=' cursor-pointer' size={20}></FaTelegram>
                         <FaLinkedinIn className=' cursor-pointer' size={20}></FaLinkedinIn>
                         <FaGithub className=' cursor-pointer' size={20}></FaGithub>
